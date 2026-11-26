@@ -2,6 +2,7 @@
 
 Painel interativo desenvolvido em Power BI para monitorar a cobertura de abastecimento de água e esgotamento sanitário nos 223 municípios da Paraíba, comparando o desempenho estadual com a média nacional e evidenciando desigualdades territoriais.
 
+<img width="1113" height="626" alt="ag" src="https://github.com/user-attachments/assets/40fc6746-637e-4ed4-8c87-441d4f8976a5" />
 ---
 
 ## Objetivo
@@ -19,11 +20,15 @@ A abordagem metodológica reflete a prática de inteligência territorial aplica
 
 ## Demonstração
 
-![Navegação do painel — Visão Resumo com alternância entre Água e Esgoto](assets/demo-resumo.gif)
+https://github.com/user-attachments/assets/71734295-c71b-496d-8162-d41c0f7c7802
 
 *Alternância dinâmica entre os indicadores de Água e Esgoto via bookmarks, atualizando KPIs, mapa coroplético, textos analíticos e distribuição regional na mesma tela.*
 
-![Exploração detalhada e tooltips históricos](assets/demo-detalhe.gif)
+
+
+https://github.com/user-attachments/assets/9ea81b40-a71a-4762-abf9-3db4fb08c560
+
+
 
 *Páginas analíticas com filtro por década, ranking de municípios mais vulneráveis e tooltips sob demanda com a evolução histórica de cada município.*
 
