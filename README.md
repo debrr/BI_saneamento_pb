@@ -3,6 +3,7 @@
 Painel interativo desenvolvido em Power BI para monitorar a cobertura de abastecimento de água e esgotamento sanitário nos 223 municípios da Paraíba, comparando o desempenho estadual com a média nacional e evidenciando desigualdades territoriais.
 
 <img width="1113" height="626" alt="ag" src="https://github.com/user-attachments/assets/40fc6746-637e-4ed4-8c87-441d4f8976a5" />
+
 ---
 
 ## Objetivo
@@ -20,24 +21,21 @@ A abordagem metodológica reflete a prática de inteligência territorial aplica
 
 ## Demonstração
 
-https://github.com/user-attachments/assets/71734295-c71b-496d-8162-d41c0f7c7802
-
 *Alternância dinâmica entre os indicadores de Água e Esgoto via bookmarks, atualizando KPIs, mapa coroplético, textos analíticos e distribuição regional na mesma tela.*
 
-
-
-https://github.com/user-attachments/assets/9ea81b40-a71a-4762-abf9-3db4fb08c560
-
+https://github.com/user-attachments/assets/71734295-c71b-496d-8162-d41c0f7c7802
 
 
 *Páginas analíticas com filtro por década, ranking de municípios mais vulneráveis e tooltips sob demanda com a evolução histórica de cada município.*
+
+https://github.com/user-attachments/assets/9ea81b40-a71a-4762-abf9-3db4fb08c560
 
 ---
 
 ## Principais Achados
 
 ### 1. Estagnação histórica e déficit estrutural
-- **Abastecimento de água:** 74,8% de cobertura estadual (2,97 milhões de atendidos; déficit de 1 milhão de habitantes), ficando 10,2 p.p. abaixo da média nacional (85%). Após avançar de 31% para 74% até 2010, o indicador estagnou na década seguinte.
+- **Abastecimento de água:** 74,8% de cobertura estadual está 10,2 p.p. abaixo da média nacional (85%). Após avançar de 31% para 74% de da população atendida até 2010, houve estagnação do serviço na década seguinte.
 - **Esgotamento sanitário:** apenas 39% de cobertura (1,54 milhão de atendidos; déficit de 2,43 milhões de habitantes), 17,1 p.p. abaixo da média nacional (56%). Depois de saltar de 19% (2010) para 37% (2015), o crescimento praticamente parou.
 - **Assimetria entre serviços:** existe uma distância de quase 36 pontos percentuais entre o acesso à água e à coleta de esgoto no estado.
 
